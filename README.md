@@ -24,7 +24,7 @@ I'm a code enthusiast, curious about cutting edge technologies, and scientific d
 
 ### Sotfware development:
 
-<img align="left" alt="Visual Studio Code" title="VScode" width="26px" src="https://code.visualstudio.com/" />
+<img align="left" alt="Visual Studio Code" title="VScode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="Python 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="left" alt="PostGreSQL" title="PostGreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -32,6 +32,7 @@ I'm a code enthusiast, curious about cutting edge technologies, and scientific d
 <img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </br>
+
 ### Other software:
 <img align="left" alt="Adobe Suite" title="Adobe Suite" width="26px" src="https://www.adobe.com/content/dam/cc/icons/Adobe_Corporate_Horizontal_Red_HEX.svg" />
 <img align="left" alt="Photoshop" title="Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" />
