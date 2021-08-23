@@ -1,7 +1,7 @@
 # Hello World, I'm Ke Thien <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning AI @ [BeCode.org](https://becode.org).
-- 👯 I’m looking for internship in AI Data
+- 👯 I’m looking for internship in AI Data, Machine Learning Engineer
 - 🔭 I was a front-end developper.
 
 Discover my projects, hackathons, publications and more on [kethien.be](https://kethien.be/).
